@@ -14,8 +14,8 @@ A collection of drop-in custom systems for ModernUO shards. Each system is self-
 
 | System | Summary |
 |--------|---------|
-| [**MyStats**](docs/MyStats.md) | One-window statistics dashboard — attributes, resistances, combat and magic ratings, plus a filtered skill list. |
-| [**Pet&nbsp;Training**](docs/PetTraining.md) | Full port of the classic Animal Training system, including stats, resists, skill caps, abilities and a companion shrink system. |
+| **MyStats** | One-window statistics dashboard — attributes, resistances, combat and magic ratings, plus a filtered skill list. |
+| **Pet&nbsp;Training** | Full port of the classic Animal Training system, including stats, resists, skill caps, abilities and a companion shrink system. |
 
 ---
 
