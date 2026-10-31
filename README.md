@@ -40,7 +40,7 @@ A collection of drop-in custom systems for ModernUO shards. Each system is self-
 
 ## Notes on the Pet Collection
 
-The **Companion, Legendary & Named Pets** pack builds on the **Pet Training** system — pets from all three tiers use the same training gump and ability packages, so no additional setup is needed beyond having Pet Training installed.
+The **Companion, Legendary & Named Pets** pack builds on the **Pet Training** system — pets from all three tiers use the same training gump and ability packages, so no additional setup is needed beyond having Pet Training installed. These custom pets are untested.
 
 A few things worth knowing before deploying:
 
