@@ -10,7 +10,7 @@
 
 - **ModernUO** — built and tested against the current release.
 - **.NET SDK** — whatever the current ModernUO build expects (10.0.x at time of writing).
-- **Two stock files are replaced** — `Scripts/SkillHandlers/AnimalLore.cs` and `Scripts/Mobiles/AIType.cs`. Back these up before deploying. Details are in each system's documentation.
+- **Some stock files are replaced, for example** — `Scripts/SkillHandlers/AnimalLore.cs` and `Scripts/Mobiles/AIType.cs`. Back these up before deploying. Details are in each system's documentation.
 
 ---
 
@@ -18,7 +18,7 @@
 
 1. Clone or download this repository.
 2. Copy the files into your ModernUO `Scripts/` folder following the layout in each system's doc.
-3. Back up the two stock files listed above, then overwrite them.
+3. Back up any stock files listed, then overwrite them.
 4. `dotnet build` — the project should compile cleanly.
 5. Test on a copy of your save data before going live.
 
